@@ -11,13 +11,13 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/anurag-thakur-660683241" target="_blank">
+  <a href="https://www.linkedin.com/in/anurag-thakur-660683241/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/AnuragT0505" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="thakurmnu011@gmail.com" target="_blank">
+  <a href="mailto:thakurmnu011@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/anurag.thakurr___05/" target="_blank">
