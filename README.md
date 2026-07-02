@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img data-importer="image" height="150" src="https://giffiles.alphacoders.com/219/219007.gif"  />
 </div>
 
 ###
@@ -107,8 +107,8 @@
 
 ###
 
-<div data-importer="border">
+<!-- <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=THE%20END&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+</div> -->
 
 ###
