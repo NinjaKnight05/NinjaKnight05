@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://cdn.dribbble.com/userupload/32690165/file/original-91b920c5af3417e456bc46004300944d.gif"  />
+  <img data-importer="image" height="150" src="https://giffiles.alphacoders.com/219/219007.gif"  />
 </div>
 
 ###
