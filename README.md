@@ -1,5 +1,6 @@
+
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Anurag%20Thakur%20%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Anurag%20Thakur%20%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5&fontSize=40&fontColor=FF0000&fontAlign=50&fontAlignY=80&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
